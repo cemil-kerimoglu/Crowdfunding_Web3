@@ -44,4 +44,4 @@ There run the following command:
 npx thirdweb create --app 
 
 Where I left:
-1:06:48
+1:30:49
